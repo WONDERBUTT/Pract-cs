@@ -1,0 +1,10 @@
+C:\Users\BATMAN\Desktop\Pract-cs-master\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe.config
+C:\Users\BATMAN\Desktop\Pract-cs-master\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe
+C:\Users\BATMAN\Desktop\Pract-cs-master\TimerEvents\TimerEvents\bin\Debug\TimerEvents.pdb
+C:\Users\BATMAN\Desktop\Pract-cs-master\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csprojAssemblyReference.cache
+C:\Users\BATMAN\Desktop\Pract-cs-master\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Form1.resources
+C:\Users\BATMAN\Desktop\Pract-cs-master\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+C:\Users\BATMAN\Desktop\Pract-cs-master\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.cache
+C:\Users\BATMAN\Desktop\Pract-cs-master\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.CoreCompileInputs.cache
+C:\Users\BATMAN\Desktop\Pract-cs-master\TimerEvents\TimerEvents\obj\Debug\TimerEvents.exe
+C:\Users\BATMAN\Desktop\Pract-cs-master\TimerEvents\TimerEvents\obj\Debug\TimerEvents.pdb

@@ -1,0 +1,13 @@
+C:\Users\BATMAN\Desktop\Pract-cs-master\Pract2num1\Pract2num1\bin\Debug\netcoreapp3.1\Pract2num1.exe
+C:\Users\BATMAN\Desktop\Pract-cs-master\Pract2num1\Pract2num1\bin\Debug\netcoreapp3.1\Pract2num1.deps.json
+C:\Users\BATMAN\Desktop\Pract-cs-master\Pract2num1\Pract2num1\bin\Debug\netcoreapp3.1\Pract2num1.runtimeconfig.json
+C:\Users\BATMAN\Desktop\Pract-cs-master\Pract2num1\Pract2num1\bin\Debug\netcoreapp3.1\Pract2num1.runtimeconfig.dev.json
+C:\Users\BATMAN\Desktop\Pract-cs-master\Pract2num1\Pract2num1\bin\Debug\netcoreapp3.1\Pract2num1.dll
+C:\Users\BATMAN\Desktop\Pract-cs-master\Pract2num1\Pract2num1\bin\Debug\netcoreapp3.1\Pract2num1.pdb
+C:\Users\BATMAN\Desktop\Pract-cs-master\Pract2num1\Pract2num1\obj\Debug\netcoreapp3.1\Pract2num1.csprojAssemblyReference.cache
+C:\Users\BATMAN\Desktop\Pract-cs-master\Pract2num1\Pract2num1\obj\Debug\netcoreapp3.1\Pract2num1.AssemblyInfoInputs.cache
+C:\Users\BATMAN\Desktop\Pract-cs-master\Pract2num1\Pract2num1\obj\Debug\netcoreapp3.1\Pract2num1.AssemblyInfo.cs
+C:\Users\BATMAN\Desktop\Pract-cs-master\Pract2num1\Pract2num1\obj\Debug\netcoreapp3.1\Pract2num1.csproj.CoreCompileInputs.cache
+C:\Users\BATMAN\Desktop\Pract-cs-master\Pract2num1\Pract2num1\obj\Debug\netcoreapp3.1\Pract2num1.dll
+C:\Users\BATMAN\Desktop\Pract-cs-master\Pract2num1\Pract2num1\obj\Debug\netcoreapp3.1\Pract2num1.pdb
+C:\Users\BATMAN\Desktop\Pract-cs-master\Pract2num1\Pract2num1\obj\Debug\netcoreapp3.1\Pract2num1.genruntimeconfig.cache
